@@ -1,0 +1,8 @@
+pandas
+gensim
+nltk
+numpy
+scikit-learn
+flask
+joblib
+flask_cors
