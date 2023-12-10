@@ -2,6 +2,10 @@
 
 **For Beginner Learning:** AI model trained with Gensim and scikit-learn for classifying movie reviews as positive or negative
 
+NO LEARNING MATERIAL. Helps provide hands-on for anyone wanting to kick off AI basics. Refer to AI docs, talk to CHatGPT or Bard for learning concepts ;)
+
+Comments in the code may help follow the tasks performed.
+
 ## Source Files
 
 ### API
@@ -31,6 +35,7 @@ Basic HTML UI with relevant styling and logic to invoke the API from local.
 ## Setup
 
 - clone the repo
+- download the IMDB reivew dataset available [here](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/)
 - install packages using requirements.txt
 - use nltk to download the stop words
 - run the model_training.py. this is a time taking process (tried on Octa-Core AMD CPU with 16 GB RAM and a HDD)
@@ -40,3 +45,4 @@ Basic HTML UI with relevant styling and logic to invoke the API from local.
 - provide a review in the box on the ui and submit. Expectation is to view the sentiment and the confidence score
 
 ![image](https://github.com/geoking41/movie-review-sentiment-analyzer/assets/26020419/3de74355-a93b-4926-b4ae-926a767c7519)
+
